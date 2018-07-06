@@ -1,8 +1,8 @@
 {
   "objectName" : "protectoratepennant",
-  "colonyTags" : ["protectorate"],
   "printable" : false,
-  "rarity" : "Common",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Rare",
   "description" : "A novelty hangable pennant, sporting the logo of the Protectorate.",
   "shortdescription" : "Protectorate Pennant",
   "race" : "protectorate",

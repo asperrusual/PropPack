@@ -2,7 +2,7 @@
   "objectName" : "wizardsdresser",
   "colonyTags" : ["wizard","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "objectType" : "container",
   "tooltipKind" : "container",
   "description" : "The real magic is how much storage space this thing has!",

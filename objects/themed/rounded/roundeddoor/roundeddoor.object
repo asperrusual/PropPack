@@ -2,7 +2,7 @@
   "objectName" : "roundeddoor",
   "colonyTags" : ["door"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "door",
   "price" : 0,
   "description" : "A minimalistic door, stylistically limited in palette and rounded at the edges.",

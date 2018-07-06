@@ -2,7 +2,7 @@
   "objectName" : "roundedlight",
   "colonyTags" : ["rounded","light"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A minimalistic light fixture, stylistically left hanging bare.",
   "shortdescription" : "Rounded Light Fixture",
   "race" : "generic",

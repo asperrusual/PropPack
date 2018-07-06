@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 1500 }
   ],
   "output" : { "item" : "rocococurtain3", "count" : 1 },
-  "groups" : [ "ppshop", "ppprotectorate", "ppsets" ]
+  "groups" : [ "ppshop", "ppsets" ]
 }

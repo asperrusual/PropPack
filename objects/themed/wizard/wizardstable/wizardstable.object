@@ -2,7 +2,7 @@
   "objectName" : "wizardstable",
   "colonyTags" : ["wizard"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A table enchanted to never give its owner splinters, guaranteed!",
   "shortdescription" : "Wizard's Table",
   "race" : "generic",

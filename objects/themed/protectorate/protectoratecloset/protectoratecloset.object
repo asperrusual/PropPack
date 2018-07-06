@@ -2,7 +2,7 @@
   "objectName" : "protectoratecloset",
   "colonyTags" : ["protectorate","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A standard issue Protectorate dorm room closet.",
   "shortdescription" : "Protectorate Closet",
   "race" : "protectorate",

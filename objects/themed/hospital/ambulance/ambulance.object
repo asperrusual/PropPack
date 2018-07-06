@@ -2,7 +2,7 @@
   "objectName" : "ambulance",
   "colonyTags" : ["hospital", "medical"],
   "printable" : false,
-  "rarity" : "Uncommon",
+  "rarity" : "Common",
   "description" : "It's an ambulance! Make way!",
   "shortdescription" : "Ambulance",
   "race" : "generic",

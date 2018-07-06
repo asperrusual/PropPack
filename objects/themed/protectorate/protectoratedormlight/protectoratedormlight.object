@@ -2,7 +2,7 @@
   "objectName" : "protectoratedormlight",
   "colonyTags" : ["protectorate"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A sleek light fixture commonplace in Protectorate structures.",
   "shortdescription" : "Protectorate Light",
   "race" : "protectorate",

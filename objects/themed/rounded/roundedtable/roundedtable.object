@@ -2,7 +2,7 @@
   "objectName" : "roundedtable",
   "colonyTags" : ["rounded","commerce"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A minimalistic table, stylistically rounded at the edges.",
   "shortdescription" : "Rounded Table",
   "race" : "generic",

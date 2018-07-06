@@ -2,7 +2,7 @@
   "objectName" : "protectoratefridge",
   "colonyTags" : ["protectorate","cooking","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A standard issue Protectorate dorm room refrigerator.",
   "shortdescription" : "Protectorate Fridge",
   "race" : "protectorate",

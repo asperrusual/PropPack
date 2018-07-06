@@ -2,7 +2,7 @@
   "objectName" : "punchypunchingbag",
   "colonyTags" : ["monstrous"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A punching bag modeled after a Punchy. Haven't you already beaten up the poor things enough?",
   "shortdescription" : "Monstrous Punching Bag",
   "race" : "generic",

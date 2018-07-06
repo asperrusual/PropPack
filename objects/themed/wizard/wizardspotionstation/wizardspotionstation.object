@@ -2,7 +2,7 @@
   "objectName" : "wizardspotionstation",
   "colonyTags" : ["wizard","crafting"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "We need... to brew!",
   "shortdescription" : "Alchemy Table",
   "race" : "generic",

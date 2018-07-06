@@ -2,7 +2,7 @@
   "objectName" : "wizardsbookcase",
   "colonyTags" : ["wizard","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "Likely the archive of a very scatterbrained wizard professor.",
   "shortdescription" : "Wizard's Bookcase",
   "race" : "generic",

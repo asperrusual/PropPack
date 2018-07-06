@@ -2,7 +2,7 @@
   "objectName" : "wizardsbed",
   "colonyTags" : ["wizard"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A dreamy silk bed for weary wizards.",
   "shortdescription" : "Wizard's Bed",
   "race" : "generic",

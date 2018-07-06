@@ -2,7 +2,7 @@
   "objectName" : "protectoratecouch",
   "colonyTags" : ["protectorate"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A standard issue Protectorate dorm room couch. Modern!",
   "shortdescription" : "Protectorate Couch",
   "race" : "protectorate",

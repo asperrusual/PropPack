@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 13500 }
+  ],
+  "output" : { "item" : "ppboxprotectorate", "count" : 1 },
+  "groups" : [ "ppshop", "ppbundles" ]
+}

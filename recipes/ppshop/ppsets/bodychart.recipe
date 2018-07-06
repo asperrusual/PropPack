@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1500 }
+    { "item" : "money", "count" : 500 }
   ],
   "output" : { "item" : "bodychart", "count" : 1 },
   "groups" : [ "ppshop", "ppsets" ]

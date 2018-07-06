@@ -1,9 +1,10 @@
 {
   "objectName" : "nutmidgebeanbag",
+  "printable" : false,
   "colonyTags" : ["monstrous"],
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A beanbag chair modeled after a Nutmidgling. * Additional chairs sold separately.",
-  "shortdescription" : "Nutmidge Beanbag",
+  "shortdescription" : "Monstrous Beanbag",
   "race" : "generic",
   "category" : "furniture",
   "price" : 0,

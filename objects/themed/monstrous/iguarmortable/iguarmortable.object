@@ -2,7 +2,7 @@
   "objectName" : "iguarmortable",
   "colonyTags" : ["monstrous"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A table modeled after an Iguarmor. Now minus spikes!",
   "shortdescription" : "Monstrous Table",
   "race" : "generic",

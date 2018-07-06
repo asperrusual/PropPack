@@ -2,7 +2,7 @@
   "objectName" : "poptopmusicbox",
   "colonyTags" : ["monstrous","pretty"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A music box modeled after a Poptop. A much less dangerous way to listen to its cheerful melody.",
   "shortdescription" : "Monstrous Music Box",
   "race" : "generic",

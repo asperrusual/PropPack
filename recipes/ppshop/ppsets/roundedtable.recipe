@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1500 }
+    { "item" : "money", "count" : 1000 }
   ],
   "output" : { "item" : "roundedtable", "count" : 1 },
   "groups" : [ "ppshop", "ppsets" ]

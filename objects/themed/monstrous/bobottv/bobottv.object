@@ -2,7 +2,7 @@
   "objectName" : "bobottv",
   "colonyTags" : ["monstrous","electronic"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A television modeled after a Bobot. 99% guaranteed not to rear up and charge at you!",
   "shortdescription" : "Monstrous TV",
   "race" : "generic",

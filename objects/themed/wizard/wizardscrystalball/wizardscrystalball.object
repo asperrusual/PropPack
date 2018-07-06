@@ -2,7 +2,7 @@
   "objectName" : "wizardscrystalball",
   "colonyTags" : ["wizard"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A mysterious glass orb that pulses with energy at the touch.",
   "shortdescription" : "Wizard's Crystal Ball",
   "race" : "generic",

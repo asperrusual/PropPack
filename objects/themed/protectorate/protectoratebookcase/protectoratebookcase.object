@@ -2,7 +2,7 @@
   "objectName" : "protectoratebookcase",
   "colonyTags" : ["protectorate","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A standard issue Protectorate dorm room bookcase.",
   "shortdescription" : "Protectorate Bookcase",
   "race" : "protectorate",

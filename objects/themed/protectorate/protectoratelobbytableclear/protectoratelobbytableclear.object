@@ -1,8 +1,8 @@
 {
   "objectName" : "protectoratelobbytableclear",
-  "colonyTags" : ["protectorate"],
   "printable" : false,
-  "rarity" : "Common",
+  "colonyTags" : ["protectorate"],
+  "rarity" : "Rare",
   "description" : "A table from the Protectorate academy. This one's free of clutter!",
   "shortdescription" : "Protectorate Table",
   "race" : "protectorate",

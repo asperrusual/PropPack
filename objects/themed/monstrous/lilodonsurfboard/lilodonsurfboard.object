@@ -2,7 +2,7 @@
   "objectName" : "lilodonsurfboard",
   "colonyTags" : ["monstrous"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A surfboard modeled after a Lilodon. Shred the waves - and the competition!",
   "shortdescription" : "Monstrous Surfboard",
   "race" : "generic",

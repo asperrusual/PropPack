@@ -2,7 +2,7 @@
   "objectName" : "roundedbookcase",
   "colonyTags" : ["rounded","knowledge","storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "objectType" : "container",
   "tooltipKind" : "container",
   "category" : "storage",

@@ -2,7 +2,7 @@
   "objectName" : "trictuswardrobe",
   "colonyTags" : ["monstrous", "storage"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A wardrobe modeled after a Trictus. Highly unlikely to pop out and attack you.",
   "shortdescription" : "Monstrous Wardrobe",
   "race" : "generic",

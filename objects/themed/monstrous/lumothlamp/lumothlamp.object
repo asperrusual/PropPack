@@ -2,7 +2,7 @@
   "objectName" : "lumothlamp",
   "colonyTags" : ["monstrous", "light"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A lamp modeled after a Lumoth. All of the charm and efficiency with none of the fluttering!",
   "shortdescription" : "Monstrous Lamp",
   "race" : "generic",

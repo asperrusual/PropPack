@@ -2,7 +2,7 @@
   "objectName" : "protectoratetvstand",
   "colonyTags" : ["protectorate"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "description" : "A standard issue Protectorate dorm room television stand. This one comes with a console!",
   "shortdescription" : "Protectorate TV Stand",
   "race" : "protectorate",

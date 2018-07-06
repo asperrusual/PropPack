@@ -2,7 +2,7 @@
   "objectName" : "roundedcouch",
   "colonyTags" : ["rounded"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "A minimalistic couch, stylistically limited in palette and rounded at the edges.",
   "shortdescription" : "Rounded Couch",
   "race" : "generic",

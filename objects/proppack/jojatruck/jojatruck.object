@@ -4,7 +4,7 @@
   "printable" : false,
   "rarity" : "Uncommon",
   "description" : "A delivery truck from a mysterious new company... What could it possibly hold?",
-  "shortdescription" : "Joja Truck",
+  "shortdescription" : "^blue;Joja^white; Truck",
   "race" : "generic",
   "category" : "decorative",
   "price" : 0,

@@ -2,7 +2,7 @@
   "objectName" : "wizardscandle",
   "colonyTags" : ["wizard","light"],
   "printable" : false,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "category" : "light",
   "price" : 0,
   "description" : "It's constant bobbing light makes it useless for everything but creating an atmosphere.",
