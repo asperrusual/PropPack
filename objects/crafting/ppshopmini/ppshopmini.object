@@ -4,6 +4,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/ppshop.config",
+    "requiresblueprint": false,
     "filter" : [ "ppshop" ]
   },
   "printable" : false,

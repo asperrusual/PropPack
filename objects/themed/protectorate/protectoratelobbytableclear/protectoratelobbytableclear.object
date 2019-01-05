@@ -22,9 +22,10 @@
     {
       "dualImage" : "protectoratelobbytableclear.png:<color>",
       "imagePosition" : [-20, 0],
-      "spaceScan" : 0.1,
+      "spaceScan" : 0.7,
       "anchors" : [ "bottom" ],
-      "collision" : "platform"
+      "collision" : "platform",
+      "collisionSpaces" : [[0,1],[1,1],[-1,1],[-2,1]]
     }
   ]
 }

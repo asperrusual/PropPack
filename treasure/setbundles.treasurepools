@@ -71,7 +71,8 @@
         {"item" : "protectoratefridge" },
         {"item" : "protectoratepennant" },
         {"item" : "protectoratetvstand" },
-        {"item" : "protectoratewalldisplay" }
+        {"item" : "protectoratewalldisplay" },
+        {"item" : "protectorateoven" }
         ]
       }
     ]
@@ -189,6 +190,91 @@
         {"item" : "wizardspotionstation" },
         {"item" : "wizardstable" },
         {"item" : "wizardstransfigurationstation" }
+        ]
+      }
+    ]
+  ],
+  "barracksset" : [
+    [0, {
+      "fill" : [
+        {"item" : "barracksammobox" },
+        {"item" : "barracksarmorylocker" },
+        {"item" : "barracksarmoryshelf" },
+        {"item" : "barracksbed" },
+        {"item" : "barracksbunkbed" },
+        {"item" : "barracksfootlocker" },
+        {"item" : "barracksgenerator" },
+        {"item" : "barrackslockers" },
+        {"item" : "firstaidkit1" },
+        {"item" : "firstaidkit2" },
+        {"item" : "hamradioandmic" }
+        ]
+      }
+    ]
+  ],
+  "borealset" : [
+    [0, {
+      "fill" : [
+        {"item" : "borealbed" },
+        {"item" : "borealbookcase" },
+        {"item" : [ "borealchair", 2] },
+        {"item" : "borealchandelier" },
+        {"item" : "borealclock" },
+        {"item" : "borealcouch" },
+        {"item" : "borealcounter" },
+        {"item" : "borealdoor" },
+        {"item" : "borealdresser" },
+        {"item" : "borealendtable" },
+        {"item" : "borealsink" },
+        {"item" : "borealtable" },
+        {"item" : "pinetreeplanter" },
+        {"item" : "pinetreeplantersnow" },
+        {"item" : "poinsettiabasket" }
+        ]
+      }
+    ]
+  ],
+  "hydrangeaset" : [
+    [0, {
+      "fill" : [
+        {"item" : [ "hydrangeaarch", 2] },
+        {"item" : [ "hydrangeaflowerpot", 2] },
+        {"item" : "hydrangeagazebo" },
+        {"item" : "hydrangeatricycle" }
+        ]
+      }
+    ]
+  ],
+  "industrialkitchenset" : [
+    [0, {
+      "fill" : [
+        {"item" : "industrialceilingshelf" },
+        {"item" : "industrialcounter1" },
+        {"item" : "industrialcounter2" },
+        {"item" : "industrialfridge" },
+        {"item" : "industrialhood" },
+        {"item" : "industrialoven" },
+        {"item" : "industrialshelf" },
+        {"item" : "industrialsink" },
+        {"item" : "industrialwallcabinet1" },
+        {"item" : "industrialwallcabinet2" }
+        ]
+      }
+    ]
+  ],
+  "pristineset" : [
+    [0, {
+      "fill" : [
+        {"item" : "pristinebed" },
+        {"item" : "pristinebookshelf" },
+        {"item" : "pristineclock" },
+        {"item" : "pristinecoffeetable" },
+        {"item" : "pristinecouch" },
+        {"item" : "pristinedoor" },
+        {"item" : "pristinedresser1" },
+        {"item" : "pristinedresser2" },
+        {"item" : "pristinekitchencounter" },
+        {"item" : "pristinevanity" }
         ]
       }
     ]

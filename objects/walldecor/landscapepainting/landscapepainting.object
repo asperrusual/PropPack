@@ -1,6 +1,6 @@
 {
   "objectName" : "landscapepainting",
-  "colonyTags" : ["pretty"],
+  "colonyTags" : ["pretty","nature"],
   "printable" : false,
   "rarity" : "Common",
   "description" : "A standard landscape painting. Good for filling up wall space.",

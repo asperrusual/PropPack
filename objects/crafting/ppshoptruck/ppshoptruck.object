@@ -5,6 +5,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/ppshop.config",
+    "requiresblueprint": false,
     "filter" : [ "ppshop" ]
   },
   "description" : "A perfectly original and legitimate furniture shipment company.",

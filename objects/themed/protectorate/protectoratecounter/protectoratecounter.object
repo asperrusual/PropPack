@@ -28,7 +28,7 @@
     {
       "dualImage" : "protectoratecounter.png:<color>",
       "imagePosition" : [-20, 0],
-      "spaceScan" : 0.1,
+      "spaceScan" : 0.7,
       "anchors" : [ "bottom" ],
       "collision" : "platform"
     }

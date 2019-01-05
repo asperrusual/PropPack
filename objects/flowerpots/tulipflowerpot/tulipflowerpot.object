@@ -2,7 +2,7 @@
   "objectName" : "tulipflowerpot",
   "rarity" : "Common",
   "category" : "decorative",
-  "price" : 50,
+  "price" : 0,
   "printable" : false,
   "description" : "Tiptoe through them! ^orange;Place down for a variety of different styles!^white;",
   "shortdescription" : "Tulip Flower Pot",
@@ -31,5 +31,4 @@
   "numberOfImages" : 64,
   "animationPosition" : [ -8, 0 ],
   "animationParts" : { "switch" : "tulipflowerpot.png" }
-
 }
