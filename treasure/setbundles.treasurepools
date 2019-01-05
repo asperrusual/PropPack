@@ -278,5 +278,17 @@
         ]
       }
     ]
+  ],
+  "jojaset" : [
+    [0, {
+      "fill" : [
+        {"item" : "jojabox" },
+        {"item" : "jojacolasign" },
+        {"item" : "jojasign" },
+        {"item" : "jojatruck" },
+        {"item" : "jojavendingmachine" }
+        ]
+      }
+    ]
   ]
 }
