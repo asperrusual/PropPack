@@ -30,14 +30,6 @@
     }
   },
 
-  "apexDescription" : "...",
-  "avianDescription" : "...",
-  "floranDescription" : "...",
-  "glitchDescription" : "...",
-  "humanDescription" : "...",
-  "hylotlDescription" : "...",
-  "novakidDescription" : "...",
-
   "inventoryIcon" : "industrialovenicon.png",
   "orientations" : [
     {
