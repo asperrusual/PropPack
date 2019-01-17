@@ -8,7 +8,7 @@
   "glitchDescription" : "Neutral. Some basic shingles for roofing.",
   "floranDescription" : "Ssshingles are ssstrong.",
   "novakidDescription" : "Some mighty sturdy roof shingles.",
-  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "footstepSound" : "/sfx/blocks/footstep_rooftile.ogg",
   "category" : "materials",
   "damageTable" : "/tiles/flammableDamage.config",
 
