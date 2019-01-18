@@ -3,8 +3,8 @@
   "rarity" : "Legendary",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
+    "requiresBlueprint" : false,
     "config" : "/interface/windowconfig/ppshop.config",
-    "requiresblueprint": false,
     "filter" : [ "ppshop" ]
   },
   "printable" : false,
