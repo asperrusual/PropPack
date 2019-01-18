@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "money", "count" : 300 }
   ],
-  "output" : { "item" : "novakidpetlargebluebed", "count" : 1 },
+  "output" : { "item" : "novakidpetbedlargeblue", "count" : 1 },
   "groups" : [ "ppshop", "ppship" ]
 }
