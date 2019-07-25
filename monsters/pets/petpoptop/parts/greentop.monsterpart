@@ -1,9 +1,0 @@
-{
-  "name" : "greentop",
-  "category" : "petpoptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "greentop.png"
-  }
-}
